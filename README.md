@@ -37,4 +37,6 @@ git clone https://github.com/jeetavasare/bookstorephp.git
 
 Note: In XAMPP, Apache and MySQL needs to started and running
 
-> Project Created on `17/02/2022`
+<br>
+
+> This project was created on `17/02/2022`
