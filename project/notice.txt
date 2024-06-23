@@ -1,0 +1,17 @@
+This project requires Xampp apache server and php mysql to work correctly
+$conn = mysqli_connect("localhost","root","","users");
+Hostname : localhost
+User : root
+Password : none
+Database : users
+
+Database schema
+3 Tables
+likes
+signedinuser
+user
+
+Tables schema
+likes = create table likes (cliks int,date_time DATETIME)
+signedinuser = create table likes(username varchar(30),id varchar(30))
+users = create table likes(fname varchar(20), lname varchar(20), email varchar(30), pass varchar(20), cartitem varchar(500), date_time DATETIME)
